@@ -31,4 +31,7 @@ You will have a test assigned to you every thursday that is due the following tu
 My office hours are one hour before class start time, therefor 4pm - 5pm CST. 
 
 # How to contact me 
-I prefer to be contacted via slack. 
+I prefer to be contacted via slack. After you read this for the first time please message me on the slack the answer to the following questions:
+1. What is your codeing background / experience?
+2. Why did you decide to take this class? 
+3. How many minutes / hours a day can you dedicate to this class outside of class time? 
