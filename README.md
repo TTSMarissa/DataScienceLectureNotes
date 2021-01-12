@@ -18,7 +18,7 @@ A typica class day will be broken down as the following:
 - **30 minutes:** Review material from previous class 
 - **1 hour 15 minutes:** Learning Material 
 - **15 minutes:** Break time 
-- **30 minutes:** Practice what you just learned 
+- **30 minutes:** Practice what you just learned with a partner or small group
 - **30 minutes:** Discussion Time 
 
 # Homework 
@@ -29,6 +29,12 @@ You will have a test assigned to you every thursday that is due the following tu
 
 # Office Hours 
 My office hours are one hour before class start time, therefor 4pm - 5pm CST. 
+
+# Recordings of class 
+A link to the recording and the password will be posted in slack the day after the class ( about 24 hours after the end of class ).
+
+# Missing a class 
+Please just let me know ahead of time if you are missing a class. Please try to watch the recording of the class you missed prior to the next class you join. 
 
 # How to contact me 
 I prefer to be contacted via slack. After you read this for the first time please message me on the slack the answer to the following questions:
